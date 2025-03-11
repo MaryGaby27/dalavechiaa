@@ -4,7 +4,7 @@ Olá! Sou Maria Gabriela Bonetto Dalavechia
 - 🔭 Atualmente sou aluna do 3º ano C 
 - 🌱 Atualmente estou aprendendo Pensamento Computacional
 - 📫 Como entrar em contato comigo:
-- <a href="https://instagram.com/_maria.a.gabriela_i" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- <a href="https://instagram.com/_maria.a.gabriela_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Intercambista PGM
 - 🏠 Moro em: Pato Branco e Mangueirinha
